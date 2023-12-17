@@ -1,0 +1,63 @@
+
+.container h4{
+
+    margin-top: 40px;
+    padding-top: 30px;
+    
+}
+
+.container h1{
+
+   
+    font-family: serif;
+    font-size: 50px;
+}
+
+
+
+
+.item{
+
+    height: 400px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+}
+
+.item button{
+
+    
+    margin-top: 30px;
+    height: 30px;
+    width: 100px;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    
+   
+}
+
+
+.item h5{
+
+    position: center;
+    margin-top: 3rem;
+}
+
+.item:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+.item h3{
+
+    
+   align-items: center;
+   
+}
+
+.item img{
+
+    height: 250px;
+
+}
